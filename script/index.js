@@ -9,4 +9,4 @@ console.log("🚀 ~ file: index.js:7 ~ checkboxField", checkboxField);
 
 console.log("🚀 ~ file: index.js:4 ~ title", title);
 console.log("🚀 ~ file: index.js:6 ~ form", form);
-console.log("🚀 ~ file: index.js:8 ~ checkbox", checkbox);
+console.log("🚀 ~ file: index.js:8 ~ checkbox", checkbox); 
